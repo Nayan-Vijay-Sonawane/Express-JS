@@ -1,0 +1,10 @@
+Create express folder download express in the same folder.
+npm install express
+npm install -g nodemon --save-dev
+code .
+Create code folder in express folder.
+Create public folder in express folder.
+Add html,css,img files to express folder.
+Create index.js in express folder.
+Right click index.js file,open in integrated terminal:node index.js
+In browser,search:localhost:port
